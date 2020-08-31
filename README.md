@@ -8,8 +8,8 @@ I'm Nan, a front-end developer who is passionate about user experience and creat
 -Some Experience : Heroku , Shopify Liquid , AWS 
 
 📫 How to reach me...
-    email : peangtan.pena@gmail.com
-    www.linkedin.com/in/nanpena/
+* email : peangtan.pena@gmail.com
+* www.linkedin.com/in/nanpena/
    
 - ⚡ Fun fact: ... I'm also a photographer www.nansukaramphoto.com 
 
