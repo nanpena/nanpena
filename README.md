@@ -10,12 +10,12 @@ I'm Nan, a software engineer who is passionate about user experience and creativ
 * Knowledgeable : UX design , Mocha , Chai , Fabric.js , Express , Sequelize
 * Some Experience : AWS, Heroku , Shopify Liquid
 
-:tada: My Values : 
+#### :tada: My Values : 
 * Expression as authentic self
 * Beginner's mindset and curiosity 
 * Shared understanding and consensus 
 
-📫 How to reach me : 
+#### 📫 How to reach me : 
 * email : peangtan.pena@gmail.com
 * www.linkedin.com/in/nanpena/
    
