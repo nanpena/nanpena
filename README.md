@@ -10,9 +10,9 @@ I'm Nan, a software engineer who is passionate about user experience and creativ
 * Some Experience : AWS, Heroku , Shopify Liquid
 
 :tada: My Values : 
-Expression as authentic self
-Beginner's mindset and curiosity 
-Shared understanding and consensus 
+* Expression as authentic self
+* Beginner's mindset and curiosity 
+* Shared understanding and consensus 
 
 📫 How to reach me : 
 * email : peangtan.pena@gmail.com
