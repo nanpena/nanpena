@@ -11,7 +11,8 @@ I'm Nan, a front-end developer who is passionate about user experience and creat
 * email : peangtan.pena@gmail.com
 * www.linkedin.com/in/nanpena/
    
-- ⚡ Fun fact: ... I'm also a photographer www.nansukaramphoto.com 
+
+⚡ Fun fact: ... I'm also a photographer www.nansukaramphoto.com 
 
 
 <!--
