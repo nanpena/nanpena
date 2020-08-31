@@ -20,7 +20,7 @@ I'm Nan, a software engineer who is passionate about user experience and creativ
 * www.linkedin.com/in/nanpena/
    
 
-#### :art: Fun fact...
+#### :art: Fun facts...
 - I speak English and Thai
 - I enjoy cooking 
 - I'm also a photographer www.nansukaramphoto.com 
