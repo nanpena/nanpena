@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alt Text](https://imgur.com/gr9ytZT)
+![Alt Text](https://i.ibb.co/2MCwZSv/nan-Pe-N-a.gif
 
 I'm Nan, a software engineer who is passionate about user experience and creative design. I am a designer at heart, I enjoy finding the intersection between innovative design and facilitative user experience as well as creating technology that elevate people and build community. 
 
