@@ -15,6 +15,10 @@ I'm Nan, a software engineer who is passionate about user experience and creativ
 * Beginner's mindset and curiosity 
 * Shared understanding and consensus 
 
+#### ✨ Portfolio : 
+* Photography : https://www.nansukaramphoto.com/street
+* Graphic Design : https://www.behance.net/nansukaram
+
 #### 📫 How to reach me : 
 * email : peangtan.pena@gmail.com
 * www.linkedin.com/in/nanpena/
@@ -23,7 +27,7 @@ I'm Nan, a software engineer who is passionate about user experience and creativ
 #### :art: Fun facts...
 - I speak English and Thai
 - I enjoy cooking 
-- I'm also a photographer www.nansukaramphoto.com 
+- I'm also a street photographer www.nansukaramphoto.com/street
 
 
 <!--
